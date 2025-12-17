@@ -12,14 +12,15 @@ I’m actively improving myself through projects, community work, and hands-on l
 - iOS Application Development (Swift, UIKit / SwiftUI)
 - Software Design & Architecture
 - Web Technologies
+- Python & JavaScript
 - Algorithms & Problem Solving
 
 ---
 
 ## 🛠️ Tech Stack
-  
+
 - **Mobile:** iOS, Swift  
-- **Web:** PHP, HTML5, CSS3  
+- **Web:** JavaScript, PHP, HTML5, CSS3  
 - **Tools:** Git, GitHub, VS Code, Xcode  
 
 ---
