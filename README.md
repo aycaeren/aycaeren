@@ -1,5 +1,4 @@
 ## 👋 Hi, I’m **Ayca Eren**
-
 --- 
 
 🎓 **Software Engineering Student**  
@@ -31,7 +30,7 @@ I’m actively improving myself through projects, community work, and hands-on l
 
 ## 📫 Contact
 
-📧 **Mail:** [erenayca1@icloud.com](mailto:erenayca1@icloud.com)
+- 📧 **Mail:** [erenayca1@icloud.com](mailto:erenayca1@icloud.com)
 
 ---
 
