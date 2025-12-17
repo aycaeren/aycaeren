@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hi, I’m **Ayca Eren**
 
-<!--
-**aycaeren/aycaeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student**  
+🤝 **Active member & organizer at GDG Kırklareli**  
+🌱 Currently focusing on **iOS development with Swift**, software design principles, and web technologies.  
+I’m actively improving myself through projects, community work, and hands-on learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Interests
+
+- iOS Application Development (Swift, UIKit / SwiftUI)
+- Software Design & Architecture
+- Web Technologies
+- Algorithms & Problem Solving
+
+---
+
+## 🛠️ Tech Stack
+  
+- **Mobile:** iOS, Swift  
+- **Web:** PHP, HTML5, CSS3  
+- **Tools:** Git, GitHub, VS Code, Xcode  
+
+---
+
+## 📚 Profiles
+
+- 💼 **LinkedIn:** [Ayca Eren]((http://www.linkedin.com/in/ayca-eren-32385a295))
+ 
+---
+
+## 📫 Contact
+
+📧 **Mail:** [erenayca1@icloud.com](mailto:erenayca1@icloud.com)
+
+---
+
+✨ Thanks for visiting my profile!
