@@ -26,7 +26,7 @@ I’m actively improving myself through projects, community work, and hands-on l
 
 ## 📚 Profiles
 
-- 💼 **LinkedIn:** [Ayca Eren]((http://www.linkedin.com/in/ayca-eren-32385a295))
+- 💼 **LinkedIn:** [Ayca Eren](http://www.linkedin.com/in/ayca-eren-32385a295)
  
 ---
 
