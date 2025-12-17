@@ -1,5 +1,7 @@
 👋 Hi, I’m **Ayca Eren**
 
+--- 
+
 🎓 **Software Engineering Student**  
 🤝 **Active member & organizer at GDG Kırklareli**  
 🌱 Currently focusing on **iOS development with Swift**, software design principles, and web technologies.  
